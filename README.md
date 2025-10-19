@@ -79,6 +79,7 @@ Here’s one of my code snippets that uses these techniques:
   width: calc(100vw - 1rem);
   background-color: var(--neutral-color4);
 }
+```
 
 ### Continued development
 
