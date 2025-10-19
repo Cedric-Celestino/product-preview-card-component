@@ -154,9 +154,9 @@ button {
     
     .product-description {
         font-family: 'Arial', sans-serif;
-        margin-inline-start: 1.5em;
+        margin-inline-start: 1.8em;
         margin-inline-end: 2em;
-        font-size: clamp(0.8rem, 1.1rem, 1.5rem);
+        font-size: clamp(0.8rem, 1rem, 1.5rem);
     }
 
     .price {
@@ -174,7 +174,7 @@ button {
     }
 
     .attribution {
-        left: 70.5rem;
+        left: 70rem;
         font-family: 'Montserrat', sans-serif;
     }
 
